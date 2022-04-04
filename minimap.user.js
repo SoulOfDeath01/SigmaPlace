@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        r/Place MLP Minimap 🇺🇦 #StandWithUkraine
+// @name        Sigma r/Place 
 // @namespace   http://tampermonkey.net/
 // @description MLP Minimap r/Place
 // @include     https://hot-potato.reddit.com/embed*

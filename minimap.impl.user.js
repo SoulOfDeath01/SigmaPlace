@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        DO NOT DIRECTLY USE THIS IMPLEMENTATION OF r/Place MLP Minimap
+// @name        DO NOT DIRECTLY USE THIS IMPLEMENTATION OF r/Place Sigma
 // @namespace   http://tampermonkey.net/
 // @description STOP; DO NOT DIRECTLY USE THIS
 // @include     https://hot-potato.reddit.com/embed*
