@@ -60,8 +60,8 @@ const { html, render } = mlp_uhtml;
 
   const rPlaceTemplatesGithubLfs = true;
   const rPlaceTemplateBaseUrl = rPlaceTemplatesGithubLfs
-    ? "https://media.githubusercontent.com/SoulOfDeath01/SigmaPlace/d/main"
-    : "https://raw.githubusercontent.com/SoulOfDeath01/SigmaPlace/d/main";
+    ? "https://media.githubusercontent.com/SoulOfDeath01/SigmaPlace/main"
+    : "https://raw.githubusercontent.com/SoulOfDeath01/SigmaPlace/main";
   const getRPlaceTemplateUrl = function (templateName, type) {
     return `${rPlaceTemplateBaseUrl}/${templateName}/${type}.png`;
   };
